@@ -1,8 +1,8 @@
 # EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
 
-Name : Akash A
+Name : SV ROHITHKUMAR
 
-Roll no :212221230003
+Roll no :212221230084
 
  
 
